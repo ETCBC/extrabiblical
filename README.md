@@ -1,4 +1,4 @@
-![etcbc](images/etcbc.png)
+![etcbc](rpograms/images/etcbc.png)
 
 # Extra-biblical books
 
@@ -20,7 +20,7 @@ The results of this study are being delivered in several forms, summarized here.
   [Jupyter notebook](https://github.com/ETCBC/parallels/tree/master/programs/tfFromMql.ipynb)
   plus some examples how to process the material.
 
-![tf](images/tf-small.png)
+![tf](rpograms/images/tf-small.png)
 
 # Authors
 * [Martijn Naaijer](mailto:m.naaijer@vu.nl) -
