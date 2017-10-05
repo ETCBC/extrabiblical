@@ -11,7 +11,8 @@
 @fmt:text-trans-plain={g_cons}{g_suffix}
 @sectionFeatures=book,chapter,verse
 @sectionTypes=book,chapter,verse
+@version=0.1
 @website=http://etcbc.nl
 @writtenBy=Text-Fabric
-@dateWritten=2017-10-04T20:38:35Z
+@dateWritten=2017-10-05T11:19:54Z
 
