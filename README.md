@@ -9,6 +9,8 @@ Part of the
 project carried out at the 
 [ETCBC](http://etcbc.nl)
 
+* 2019-01-22: MQL Source version 0.2  obtained from Constantijn Sikkel, ETCBC
+
 # Results
 
 The results of this study are being delivered in several forms, summarized here.
