@@ -1,4 +1,5 @@
 ![etcbc](programs/images/etcbc.png)
+![etcbc](programs/images/dans-small.png)
 
 # Extra-biblical books
 
