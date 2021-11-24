@@ -1,7 +1,36 @@
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
+
 ![etcbc](programs/images/etcbc.png)
 ![etcbc](programs/images/dans-small.png)
 
-# Extra-biblical books
+# Extra-biblical material
+
+### BHSA Family
+
+* [bhsa](https://github.com/etcbc/bhsa) Core data and feature documentation
+* [phono](https://github.com/etcbc/phono) Phonological representation of Hebrew words
+* [parallels](https://github.com/etcbc/parallels) Links between similar verses
+* [valence](https://github.com/etcbc/valence) Verbal valence for all occurrences
+  of some verbs
+* [trees](https://github.com/etcbc/trees) Tree structures for all sentences
+* [bridging](https://github.com/etcbc/bridging) Open Scriptures morphology
+  ported to the BHSA
+* [pipeline](https://github.com/etcbc/pipeline) Generate the BHSA and SHEBANQ
+  from internal ETCBC data files
+* [shebanq](https://github.com/etcbc/shebanq) Engine of the
+  [shebanq](https://shebanq.ancient-data.org) website
+
+### Extended family
+
+* [dss](https://github.com/etcbc/dss) Dead Sea Scrolls
+* [extrabiblical](https://github.com/etcbc/extrabiblical)
+  Extra-biblical writings from ETCBC-encoded texts
+* [peshitta](https://github.com/etcbc/peshitta)
+  Syriac translation of the Hebrew Bible
+* [syrnt](https://github.com/etcbc/syrnt)
+  Syriac translation of the New Testament
+
+# Sources
 
 Conversion of some extra-biblical writings from ETCBC-encoded texts, delivered as MQL, to text-fabric format.
 
